@@ -531,7 +531,6 @@ def compute_graph_statistics(A_in):
              * Power law exponent
              * Gini coefficient
              * Relative edge distribution entropy
-             * Assortativity
              * Clustering coefficient
              * Number of connected components
              * Intra- and inter-community density (if Z_obs is passed)
@@ -576,9 +575,6 @@ def compute_graph_statistics(A_in):
 
     # Relative edge distribution entropy
     statistics['rel_edge_distr_entropy'] = statistics_edge_distribution_entropy(A)
-
-    # Assortativity
-    statistics['assortativity'] = nx.degree_assortativity_coefficient(A_graph)
 
     # Clustering coefficient
     statistics['clustering_coefficient'] = 3 * statistics['triangle_count'] / statistics['claw_count']
