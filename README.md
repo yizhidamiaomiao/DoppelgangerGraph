@@ -23,6 +23,8 @@ statsmodels
 ## Run the code
  
 The two folders contain different datasets, different codes and different pretrained models.
+
+One folder for `coraml` dataset and one folder for `citeseer` dataset.
  
 In order to get the link prediction model, run `sample_graphsage.ipynb`. 
 
