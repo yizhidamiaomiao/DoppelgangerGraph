@@ -6,7 +6,7 @@ This repository provides a pytorch implementation of this paper:
 
 ## Requirements
 
-The code is implemented in Python 3.6. To run the code, these required packages are needed to install:
+The code is implemented in Python 3.6. To run the code, the following packages are needed:
 
 ```
 numpy
@@ -22,7 +22,7 @@ statsmodels
 
 ## Run the code
  
-The two folder contains different dataset, different codes and different pretrained model.
+The two folders contain different datasets, different codes and different pretrained models.
  
 In order to get the link prediction model, run `sample_graphsage.ipynb`. 
 
