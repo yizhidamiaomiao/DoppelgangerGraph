@@ -34,6 +34,6 @@ In order to get the generated graph, run `generate_graph.ipynb`.
 
 ## Pretrained model
 
-We have already provided the pretrained link prediction model:`embeddings.npy` and embeddings `embeddings.npy`.
+We have already provided the pretrained link prediction model:`graphsage.pth` and embeddings `embeddings.npy`.
 
 We have already provided the pretrained GAN model:`gan_model\bestG_pretrained.pth` and embeddings `gan_model\bestD_pretrained.pth`.
