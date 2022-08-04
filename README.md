@@ -1,7 +1,7 @@
-# Generating a Doppelganger Graph:Resembling but Distinct
+PromptGraphGeneration: Prompt-based Method for Simple Graph Generation
 
 This repository provides a pytorch implementation of this paper:
-> Generating a Doppelganger Graph:Resembling but Distinct
+> PromptGraphGeneration: Prompt-based Method for Simple Graph Generation
 
 
 ## Requirements
