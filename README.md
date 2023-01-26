@@ -1,7 +1,7 @@
-## PromptGraphGeneration: Prompt-based Method for Simple Graph Generation
+## Mathematical Knowledge Guided Deep Graph Generation
 
 This repository provides a pytorch implementation of this paper:
-> PromptGraphGeneration: Prompt-based Method for Simple Graph Generation
+> Mathematical Knowledge Guided Deep Graph Generation
 
 
 ## Requirements
